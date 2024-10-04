@@ -46,7 +46,7 @@ Aqui encontrará meus estudos, exercícios e desafios de lógica de programaçã
 
 | Tipo   | link pasta  |
 |--------|---------|
-
+| HTML e CSS |[acesse](https://github.com/patyfreitasbr/primeiros-passos-na-programacao/tree/main/html-css)
 
 ## Contato
 
