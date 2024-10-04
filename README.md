@@ -23,6 +23,7 @@ Bem-vindo ao meu repositório! Aqui, você encontrará uma coleção de projetos
 |Site Android| HTMl + CSS|[acesse](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html)
 |Metas APP| Javascript +NodeJS|[acesse](https://github.com/patyfreitasbr/metas-app)|
 |Quiz Interativo|HTML + CSS | [em andamento](https://github.com/patyfreitasbr/HTMLeCSS-estudos/tree/main/projetos/001-quiz-interativo)|
+|Jogo do número secreto|Javascript|[acesse](https://github.com/patyfreitasbr/jogo-do-numero-secreto)
 
 * Python
 
