@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu repositório! Aqui, você encontrará uma coleção de projetos e desafios que desenvolvi enquanto iniciava minha jornada no mundo da programação. Meu foco principal é em HTML, CSS e JavaScript, além de conceitos de lógica de programação.
 
-[Projetos](#projetos) • [Estudos Linguagens](#estudos-linguagens) • [Lógica da Programação com Portugol](#logica-da-programação-com-portugol) • [Contato](#contato)
 
 ## O que você encontrará aqui
 
@@ -43,7 +42,6 @@ Aqui encontrará meus estudos, exercícios e desafios de lógica de programaçã
 |Estudos| [acesse](https://github.com/patyfreitasbr/HTMLeCSS-estudos/tree/main/logica-da-programa%C3%A7%C3%A3o/exercicios)|
 
 
-## Estudos linguagens
 
 | Tipo   | link pasta  |
 |--------|---------|
