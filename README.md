@@ -16,20 +16,14 @@ Bem-vindo ao meu repositório! Aqui, você encontrará uma coleção de projetos
 |Nome | Linguagens| Link|
 |----|----|----|
 |Dark Mode Theme |JavaScript + css + HTML|[acesse]()|
-|Google Search Page Clone| HTML + CSS| [acesse](https://github.com/patyfreitasbr/google-search-page-clone)|
-|Formuário Login|HTML + CSS| [acesse](https://github.com/patyfreitasbr/formulario-de-login)|
-|WebSite PetLife|  HTML + CSS + JavaScript|  [acesse](https://github.com/patyfreitasbr/site-PetLife)
-|Site Android| HTMl + CSS|[acesse](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html)
-|Metas APP| Javascript +NodeJS|[acesse](https://github.com/patyfreitasbr/metas-app)|
-|Quiz Interativo|HTML + CSS | [em andamento](https://github.com/patyfreitasbr/HTMLeCSS-estudos/tree/main/projetos/001-quiz-interativo)|
-|Jogo do número secreto|Javascript|[acesse](https://github.com/patyfreitasbr/jogo-do-numero-secreto)
+|Google Search Page Clone| HTML + CSS| [repositorio](https://github.com/patyfreitasbr/google-search-page-clone)|
+|Formuário Login|HTML + CSS| [repositório](https://github.com/patyfreitasbr/formulario-de-login) - [site](https://patyfreitasbr.github.io/formulario-de-login/)|
+|WebSite PetLife|  HTML + CSS + JavaScript|  [repositório](https://github.com/patyfreitasbr/site-PetLife) - [site](https://patyfreitasbr.github.io/site-PetLife/)
+|Site Android| HTMl + CSS|[site](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html)
+|Metas APP| Javascript +NodeJS|[repositório](https://github.com/patyfreitasbr/metas-app)|
+|Jogo do número secreto|Javascript|[acesse](https://github.com/patyfreitasbr/jogo-do-numero-secreto)- [site](https://patyfreitasbr.github.io/jogo-do-numero-secreto/)
+|Mentor Match | HTML + CSS+ Javascritp| [repositório](https://github.com/patyfreitasbr/mentor-match) - [site](https://patyfreitasbr.github.io/mentor-match/)
 
-* Python
-
-|Nome | Bibliotecas| Link|
-|---|---|---|
-|Análise de vendas de produtos| Pandas e Plotly |[acesse](https://github.com/patyfreitasbr/HTMLeCSS-estudos/tree/main/html)|
-|Automação: Cadastro produtos em site|Pandas e Pyautogui|[acesse](https://github.com/patyfreitasbr/automacoes-e-analise-de-dados-JornadaPython0724/tree/main/cadastro-produto-em-site)|
 
 
 ## Lógica da programação com portugol
@@ -42,10 +36,12 @@ Aqui encontrará meus estudos, exercícios e desafios de lógica de programaçã
 |Estudos| [acesse](https://github.com/patyfreitasbr/HTMLeCSS-estudos/tree/main/logica-da-programa%C3%A7%C3%A3o/exercicios)|
 
 
+## Estudos - linguagens
 
 | Tipo   | link pasta  |
 |--------|---------|
 | HTML e CSS |[acesse](https://github.com/patyfreitasbr/primeiros-passos-na-programacao/tree/main/html-css)
+
 
 ## Contato
 
